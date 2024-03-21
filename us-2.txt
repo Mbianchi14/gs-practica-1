@@ -1,0 +1,16 @@
+Scrum en una metodologia de desarrollo de software  del tipo Agile, que permite trabajar en el desarrollo de manera incremental e iterativa.
+Actores:
+- Development Squad
+- Product Owner
+- Scrum Master
+
+Artefactos Scrum:
+- Product Backlog
+- Sprint Backlog
+
+Ceremonias:
+- Daily
+- Planing
+- Review
+- Refinamiento
+- Retrospective
